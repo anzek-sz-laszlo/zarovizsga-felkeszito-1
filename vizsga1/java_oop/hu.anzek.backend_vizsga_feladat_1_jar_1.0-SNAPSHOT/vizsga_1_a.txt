@@ -1,0 +1,3 @@
+Java Programozas,Csicseri Borso,2022,123456789
+Spring Boot Kezikonyv,Kicsi Csillag,2024,987654321
+Java backend programozas,Anzek Informatika,2024,1243126546
