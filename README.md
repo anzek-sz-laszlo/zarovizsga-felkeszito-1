@@ -1,4 +1,4 @@
-AZ ÍGÉRT pRÓBA-TESZTKÉRDÉSEKEt a week35 hét mappa alatt találjátok! 
+AZ ÍGÉRT PRÓBA-TESZTKÉRDÉSEKET a week35 hét mappa alatt találjátok! 
 a linkje:
 https://pallas70.sharepoint.com/:b:/s/176.backend.szo/ERXIVNu58zZItdpSNvrp7doBuhkwbUZvkoPDys-mfn3fdQ?e=3E0mMY
 
